@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AkimLib2.Core", "AkimLib2.Core\AkimLib2.Core.csproj", "{AE89631A-2AE9-4AD0-A7E3-494DD7475EEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{1D917A3A-B784-4134-A3E8-66546B8C194D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE89631A-2AE9-4AD0-A7E3-494DD7475EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE89631A-2AE9-4AD0-A7E3-494DD7475EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE89631A-2AE9-4AD0-A7E3-494DD7475EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE89631A-2AE9-4AD0-A7E3-494DD7475EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D917A3A-B784-4134-A3E8-66546B8C194D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D917A3A-B784-4134-A3E8-66546B8C194D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D917A3A-B784-4134-A3E8-66546B8C194D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D917A3A-B784-4134-A3E8-66546B8C194D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27E1315F-178C-404A-9209-B8003B98FA28}
+	EndGlobalSection
+EndGlobal
